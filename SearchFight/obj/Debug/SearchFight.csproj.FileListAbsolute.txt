@@ -1,0 +1,11 @@
+E:\Projects\Visual Studio 2017\SearchFight\SearchFight\bin\Debug\SearchFight.exe.config
+E:\Projects\Visual Studio 2017\SearchFight\SearchFight\bin\Debug\SearchFight.exe
+E:\Projects\Visual Studio 2017\SearchFight\SearchFight\bin\Debug\SearchFight.pdb
+E:\Projects\Visual Studio 2017\SearchFight\SearchFight\obj\Debug\SearchFight.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio 2017\SearchFight\SearchFight\obj\Debug\SearchFight.exe
+E:\Projects\Visual Studio 2017\SearchFight\SearchFight\obj\Debug\SearchFight.pdb
+E:\Projects\Visual Studio 2017\SearchFight\SearchFight\bin\Debug\SearchFight.exe.manifest
+E:\Projects\Visual Studio 2017\SearchFight\SearchFight\bin\Debug\SearchFight.application
+E:\Projects\Visual Studio 2017\SearchFight\SearchFight\obj\Debug\SearchFight.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2017\SearchFight\SearchFight\obj\Debug\SearchFight.exe.manifest
+E:\Projects\Visual Studio 2017\SearchFight\SearchFight\obj\Debug\SearchFight.application
